@@ -25,7 +25,7 @@ Março de 2016 a Setembro de 2017;
 
 ◻️ Tecnologias em desenvolvimento:  ▫️ R ▫️ Power BI ▫️ Tableau ▫️ Google Data Studio;
 
-◻️ Este é o meu perfil no [LinkedIn.](www.linkedin.com/in/guilhermegastaldo)
+◻️ Este é o meu perfil no linkedin: <a rel="nofollow me" class="Link--primary" href="https://www.linkedin.com/in/guilhermegastaldo">https://www.linkedin.com/in/guilhermegastaldo</a>
 
 
 ◻️ Caso queira seguir meu perfil no GitHub, vou ficar muito feliz – sendo que prometo acompanhar seu trabalho aqui também! 
