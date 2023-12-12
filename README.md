@@ -6,7 +6,7 @@
 
 Quem sou eu no mundo da análise de dados?
 
-◻️ Estudo na Alura a mais de uma ano (início janeiro de 2022), Formação em Data Science;
+◻️ Estudo na Alura a mais de uma ano (início novembro de 2022), Formação em Data Science;
  
 ◻️ Master of Business Administration - MBA em Tecnologia para Negócios AI, Data Science e Big Data
 PUCRS - Porto Alegre, RS Julho de 2020 a Junho de 2021;
